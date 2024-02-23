@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="subscriber_name_hint">Subscriber\'s name</string>
+    <string name="subscriber_email_hint">Subscriber\'s email</string>
+</resources>
